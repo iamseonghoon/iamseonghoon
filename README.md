@@ -23,8 +23,8 @@ Hi! Welcome to my Github place. I'm currently a Ph.D. student in computer scienc
 - Cross-device web techniques
 
 ### 📝 My recent work is ...
-- Y. Choi, [S. Park], H. Cha, "Optimizing Energy Efficiency of Browsers in Energy-Aware Scheduling-enabled Mobile Devices," The 25th Annual International Conference on Mobile Computing and Networking (MobiCom 2019), Los Cabos, Mexico, Oct. 21-25, 2019.
-- Y. Choi, S. Park, H. Cha, "Graphics-aware Power Governing for Mobile Devices," The 17th ACM International Conference on Mobile Systems, Applications and Services (MobiSys 2019), Seoul, South Korea, June 17-21, 2019.
+- Y. Choi, **S. Park**, H. Cha, "Optimizing Energy Efficiency of Browsers in Energy-Aware Scheduling-enabled Mobile Devices," The 25th Annual International Conference on Mobile Computing and Networking (MobiCom 2019), Los Cabos, Mexico, Oct. 21-25, 2019.
+- Y. Choi, **S. Park**, H. Cha, "Graphics-aware Power Governing for Mobile Devices," The 17th ACM International Conference on Mobile Systems, Applications and Services (MobiSys 2019), Seoul, South Korea, June 17-21, 2019.
 
 ### 📫 How to reach me ...
 - E-mail: park.s At. yonsei.ac.kr
