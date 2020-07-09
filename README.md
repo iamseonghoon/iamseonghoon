@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi! Welcome to my Github place. I'm currently a Ph.D. student in computer science at Yonsei University, Seoul, South Korea.
+### 👋 Hi! Welcome to my Github place.
+I'm currently a Ph.D. student in computer science at Yonsei University, Seoul, South Korea.
 
 ### 🔭 I'm currently interested in ...
 - Energy-aware mobile systems
