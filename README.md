@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Hi! Welcome to my Github place. I'm a Ph.D. student in computer science at Yonsei University.
 
-## 📫 How to reach me:
-- E-mail: park.s At yonsei.ac.kr
+### 📫 How to reach me:
+- E-mail: park.s At. yonsei.ac.kr
