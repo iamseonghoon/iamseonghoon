@@ -36,7 +36,7 @@ I'm currently a Ph.D. student in computer science at Yonsei University, Seoul, S
 - System Programming (CSI3107) as a TA at Yonsei University (2018 Fall)
 - Operating Systems (CSI3101) as a TA at Yonsei University (2018 Spring)
 
-### ✨ Technical Skills
+### ✨ Technical skills
 - Spoken Languages: Korean, English
 - Programming Languages: C, C++, Python, JavaScript, Java  (Also, I have some experience in Go, Kotlin, and so on.)
 
