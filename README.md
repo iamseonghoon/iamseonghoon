@@ -38,6 +38,6 @@ I'm currently a Ph.D. student in computer science at Yonsei University, Seoul, S
 
 ### ✨ Teachnical Skills
 - Spoken Languages: Korean, English
-- Programming Languages: C, C++, Python, JavaScript  (Also, I have some experience in Java, Go, and so on.)
+- Programming Languages: C, C++, Python, JavaScript, Java  (Also, I have some experience in Go, Kotlin, and so on.)
 
 
