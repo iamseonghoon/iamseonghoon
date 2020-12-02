@@ -19,11 +19,10 @@ I'm currently a Ph.D. student in computer science at Yonsei University, Seoul, S
 ### 📫 How to reach me ...
 - E-mail: park.s At. yonsei.ac.kr
 
-### 🔭 I'm currently interested in ...
+### 🔭 My research interests center around ...
 - Cross-device web techniques
 - Mobile web experience
 - Energy-aware mobile systems
-
 
 ### 📝 Pulbications
 - Y. Choi, **S. Park**, H. Cha, "Optimizing Energy Efficiency of Browsers in Energy-Aware Scheduling-enabled Mobile Devices," The 25th Annual International Conference on Mobile Computing and Networking (MobiCom 2019), Los Cabos, Mexico, Oct. 21-25, 2019.
@@ -37,5 +36,8 @@ I'm currently a Ph.D. student in computer science at Yonsei University, Seoul, S
 - System Programming (CSI3107) as a TA at Yonsei University (2018 Fall)
 - Operating Systems (CSI3101) as a TA at Yonsei University (2018 Spring)
 
+### ✨ Teachnical Skills
+- Spoken Languages: English, Korean
+- Programming Languages: C, C++, Python, Java Script (Also, I have some experience in Java, Go, and so on.)
 
 
