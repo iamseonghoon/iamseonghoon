@@ -24,7 +24,8 @@ I'm currently a Ph.D. student in computer science at Yonsei University, Seoul, S
 - Mobile web experience
 - Energy-aware mobile systems
 
-### 📝 Pulbications
+### 📝 Publications
+- Y. Choi,  **S. Park**, S. Jeon, R. Ha, H. Cha, "Optimizing Energy Consumption of Mobile Games," IEEE Transactions on Mobile Computing (TMC) (accepted).
 - **S. Park**, Y. Choi,  H. Cha, "WebMythBusters: An In-depth Study of Mobile Web Experience," 2021 IEEE International Conference on Computer Communications (INFOCOM 2021), Virtual Conference, May. 10-13, 2021.
 - J. Park, **S. Park**, H. Cha, "GAZEL: Runtime Gaze Tracking for Smartphones," The 19th International Conference on Pervasive Computing and Communications (PerCom 2021), Virtual Conference, Mar. 22-26, 2021.
 - Y. Choi, **S. Park**, H. Cha, "Optimizing Energy Efficiency of Browsers in Energy-Aware Scheduling-enabled Mobile Devices," The 25th Annual International Conference on Mobile Computing and Networking (MobiCom 2019), Los Cabos, Mexico, Oct. 21-25, 2019.
