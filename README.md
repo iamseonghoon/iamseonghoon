@@ -42,8 +42,7 @@ I'm currently a Ph.D. student in computer science at Yonsei University, Seoul, S
 ### ✨ Technical skills
 - Spoken Languages:
   - Korean
-  - English
-    - TOEIC: 960/990
+  - English (TOEIC: 960/990, TEPS: 447/600)
 - Programming Languages:
   - C, C++, Python, JavaScript, Java
   - Also, I have some experience with Go, Kotlin, Haskell, and so on.
