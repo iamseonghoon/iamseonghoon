@@ -18,7 +18,7 @@ I'm currently a Ph.D. student in computer science at Yonsei University, Seoul, S
 Here is my [CV!](https://www.dropbox.com/s/740ng2zye30yc89/Seonghoon%20Park%20CV.pdf?dl=0) 
 
 ### 📫 How to reach me ...
-- E-mail: park.s At. yonsei.ac.kr (primary), park At. seonghoon.email (secondary)
+- E-mail: park.s At. yonsei.ac.kr (primary); park At. seonghoon.email (secondary)
 
 ### 🔭 My research interests center around ...
 - Cross-device web techniques
