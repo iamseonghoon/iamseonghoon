@@ -21,7 +21,6 @@ Here is my [CV!](https://www.dropbox.com/s/740ng2zye30yc89/Seonghoon%20Park%20CV
 - E-mail: park.s At. yonsei.ac.kr (primary); park At. seonghoon.email (secondary)
 
 ### 🔭 My research interests
-- Cross-device web techniques
 - Mobile web experience
 - Energy-aware mobile systems
 
