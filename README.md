@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=park-s)
+
 ### 👋 Hi! Welcome to my Github place.
 I'm currently a Ph.D. student in computer science at Yonsei University, Seoul, South Korea.  
 Here is my [CV!](https://www.dropbox.com/s/740ng2zye30yc89/Seonghoon%20Park%20CV.pdf) 
@@ -32,5 +34,3 @@ Here is my [CV!](https://www.dropbox.com/s/740ng2zye30yc89/Seonghoon%20Park%20CV
 - Y. Choi, **S. Park**, H. Cha, "Optimizing Energy Efficiency of Browsers in Energy-Aware Scheduling-enabled Mobile Devices," The 25th Annual International Conference on Mobile Computing and Networking (MobiCom 2019), Los Cabos, Mexico, Oct. 21-25, 2019.
 - Y. Choi, **S. Park**, H. Cha, "Graphics-aware Power Governing for Mobile Devices," The 17th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2019), Seoul, South Korea, June 17-21, 2019.
 
-
-![](https://komarev.com/ghpvc/?username=park-s)
