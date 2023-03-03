@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 ### 👋 Hi! Welcome to my Github place.
 I'm currently a Ph.D. student in computer science at Yonsei University, Seoul, South Korea.  
-My website is [https://seonghoon.page](https://seonghoon.page), and here is my [CV!](https://www.dropbox.com/s/740ng2zye30yc89/Seonghoon_CV.pdf)  
+Please visit my [website](https://seonghoon.page) or find my [CV](https://www.dropbox.com/s/740ng2zye30yc89/Seonghoon_CV.pdf) here.  
 
 ### 🔭 I'm currently interested in
 - Mobile web experiences
+- On-device machine learning
 - Energy-aware mobile systems
 
 ### 📫 How to reach me
