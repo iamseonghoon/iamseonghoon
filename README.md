@@ -17,12 +17,4 @@ Here are some ideas to get you started:
 
 ### 👋 Hi! Welcome to my GitHub place.
 I'm currently a Ph.D. student in computer science at Yonsei University, Seoul, South Korea.  
-Please visit my [website](https://seonghoon.page) or find my [CV](https://www.dropbox.com/s/740ng2zye30yc89/Seonghoon_CV.pdf) here.  
-
-### 🔭 I'm currently interested in
-- Mobile web experience
-- On-device machine learning
-- Energy-aware mobile systems
-
-### 📫 How to reach me
-- E-mail: park.s At yonsei.ac.kr (primary); park At seonghoon.email (secondary)
+Please visit my [website](https://seonghoon.page).  
